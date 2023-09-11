@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(232, 176, 254);
+    font-size: large;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+
+form{
+    background-color: rgb(144, 211, 238);
+    border-radius: 25px;
+    width: 350px;
+    height: 175px;
+    text-align: center;
+}
