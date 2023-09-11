@@ -8,3 +8,5 @@ https://gabrieldantas07.github.io/Java_basico/Funcoes/funcoes.html
 https://gabrieldantas07.github.io/Java_basico/banco/banco.html
 ## Aula Cálculo IMC:
 https://gabrieldantas07.github.io/Java_basico/IMC/index.html
+## Aula Tabuada com Laço de Repetição:
+https://gabrieldantas07.github.io/Java_basico/laço_repetição/index.html
