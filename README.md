@@ -14,3 +14,5 @@ https://gabrieldantas07.github.io/Java_basico/laço_repetição/index.html
 https://gabrieldantas07.github.io/Java_basico/orientado_objeto/index.html
 ## Aula Orientado a Objeto com Laço:
 https://gabrieldantas07.github.io/Java_basico/orientado_objeto_laço/index.html
+## Troca Imagem:
+https://gabrieldantas07.github.io/Java_basico/troca_imagem/index.html
