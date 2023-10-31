@@ -1,0 +1,23 @@
+.body{
+    background-color: yellow;
+}
+#main-image{
+    width: 550px;
+}
+
+h1{
+    text-align: center;
+}
+
+.bottom-image{
+    width: 300px;
+    margin-top: 15%;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    margin-top: 4%;
+    font-size: 2rem;
+}
+
