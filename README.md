@@ -17,4 +17,4 @@ https://gabrieldantas07.github.io/Java_basico/orientado_objeto_laço/index.html
 ## Troca Imagem:
 https://gabrieldantas07.github.io/Java_basico/troca_imagem/index.html
 ## Projeto Final:
-https://gabrieldantas07.github.com/Java_basico/ultimo_proj/index.html
+https://gabrieldantas07.github.io/Java_basico/ultimo_proj/index.html
